@@ -5,7 +5,11 @@ body{
 	font-size: 16px;
 }
 #container{
+<<<<<<< HEAD
 	color: #1013f3;
+=======
+	color: #f00c0c;
+>>>>>>> cabecera
 	text-align: left;
 	width: 70%;
 	padding: 0;
